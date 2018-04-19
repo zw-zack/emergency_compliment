@@ -1,6 +1,6 @@
 class Fruit < ApplicationRecord
   
-  def standard_weight
+  def standard_weightdwwdw
   	w = "hello"
     weight * 2.2
   end
